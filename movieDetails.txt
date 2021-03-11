@@ -1,0 +1,6 @@
+1,Barfi,Drama,Hindi,2012-3-4,7.4,80.6,Ranbir Kapoor,Priyanka Chopra
+2,Avengers,Action,English,2012-5-12,9.5,1000.5,Chris Evans, Robert Dowery,Chris,Mark
+3,Three Idiots,Comedy,Hindi,2012-4-12,8.5,100.5,Amir Khan,Kareena Kapoor
+4,Student of the Year,Comedy,Hindi,2012-10-12,6.7,50.7,Varun Dhavan ,Alia Bhatt
+5,Talaash,Hindi,Crime,2010-12-10,7.8,70.9,Amir Khan
+
